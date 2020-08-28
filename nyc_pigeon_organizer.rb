@@ -1,3 +1,12 @@
+require 'pry'
+
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  
 end
+
+
+#find unique values for innermost nested values in arrarys
+#turn unique values into keys pointing at hashes 
+
+
+
